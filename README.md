@@ -10,7 +10,7 @@
 
   <h2>Project Description</h2>
   <p>
-    In this activity, I demonstrated my proficiency in managing file permissions using Linux commands. As a security
+    In this project, I demonstrated my proficiency in managing file permissions using Linux commands. As a security
     professional responsible for maintaining system security, I examined and adjusted permissions to ensure authorized
     access and prevent unauthorized usage within the file system.
   </p>
